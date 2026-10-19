@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
-  <a href="YOUR_LINKEDIN_LINK">💼 LinkedIn</a> •
-  <a href="YOUR_INSTAGRAM_LINK">📸 Instagram</a> •
+  <a href="https://portfolio-flax-mu-48.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sidra-aslam-755765313">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/sidra.webdev/">📸 Instagram</a> •
   <a href="mailto:aslamsidra876@gmail.com">📩 Email</a>
 </p>
 
@@ -53,41 +53,58 @@ I love exploring new technologies and turning ideas into functional digital expe
 
 ## 🚀 Featured Projects
 
-### 🌐 Project One
-**Modern responsive web application**
+### 🌸 Maison de Fleur
+**Luxury botanical boutique website**
 
-- Responsive design
-- Clean UI
-- Interactive features
-- Modern frontend technologies
+- Smooth, animation-driven experience with Framer Motion
+- Hover-to-reveal flower specimens
+- Custom bouquet request form
+- Fully responsive layout
 
-🔗 [Live Demo](YOUR_PROJECT_LINK)  
-📂 [Source Code](YOUR_REPOSITORY_LINK)
-
----
-
-### 💻 Project Two
-**Full-stack MERN application**
-
-- React frontend
-- Node.js & Express backend
-- MongoDB database
-- Responsive interface
-
-🔗 [Live Demo](YOUR_PROJECT_LINK)  
-📂 [Source Code](YOUR_REPOSITORY_LINK)
+🔗 [Live Demo](https://botanical-atelier-website.vercel.app/)  
+📂 [Source Code](https://github.com/Sidraaslam451/Botanical-Atelier-Website)
 
 ---
 
-### ⚡ Project Three
-**Responsive business website**
+### 🤖 Interview IQ
+**Full-stack AI interview platform**
 
-- Mobile-friendly design
-- Modern UI
-- Fast and clean interface
+- AI-based interview evaluation
+- Automated email workflows with n8n
+- Full-stack backend
+- Production deployment
 
-🔗 [Live Demo](YOUR_PROJECT_LINK)  
-📂 [Source Code](YOUR_REPOSITORY_LINK)
+🔗 [Live Demo](https://interview-iq-ai-app-n9wy.vercel.app/)  
+📂 [Source Code](https://github.com/Sidraaslam451/InterviewIQ-AI-app)
+
+---
+
+### 🎫 SupportFlow
+**AI-assisted support ticket system (FEMHack 2026)**
+
+- AI suggests category, priority and summary
+- Live chat between customers and agents
+- Role-based access
+- Structured ticket workflow
+
+🔗 [Live Demo](https://femhack-2026-m1z4.vercel.app/)  
+📂 [Source Code](https://github.com/Sidraaslam451/FEMHACK-2026)
+
+---
+
+### 🍽️ MR.CONE
+**Premium restaurant landing page**
+
+- Full menu with chef's recommendations
+- Table reservation form
+- Elegant, mobile-friendly design
+
+🔗 [Live Demo](https://restaurant-home-pg.vercel.app/)  
+📂 [Source Code](https://github.com/Sidraaslam451/Restaurant-home-pg)
+
+---
+
+👉 **See all my projects on my [portfolio](https://portfolio-flax-mu-48.vercel.app/#projects).**
 
 ---
 
@@ -120,11 +137,11 @@ I love exploring new technologies and turning ideas into functional digital expe
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/sidra-aslam-755765313">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/sidra.webdev/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
 </a>
 
